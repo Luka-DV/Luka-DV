@@ -1,6 +1,6 @@
 
 ## Hi there 👋 I am Luka!
-As a Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Psychology and Customer Service.
+As a Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Psychology.
 
 Connect with me:
 <p align="left">
