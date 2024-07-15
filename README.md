@@ -1,6 +1,6 @@
 
 ## Hi there 👋 I am Luka!
-A Software Engineer and lifelong learner motivated by the power of technology as a tool for positive change, with a background in Psychology.
+A Software Developer and lifelong learner, with a background in customer service and Psychology.
 
 Connect with me:
 <p align="left">
@@ -9,7 +9,7 @@ Connect with me:
 </p>
 <br>
 
-Languages and Tools:
+Languages and Tools used:
 <p align="left">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/></a>
