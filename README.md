@@ -1,6 +1,20 @@
 
 ## Hi there 👋 I am Luka!
-A Software Developer and lifelong learner, with a background in customer service and Psychology.
+A Software Developer and lifelong learner with a background in customer service and Psychology.
+
+### 🌱 Currently Learning
+- Back-end development with Node.js/Express and MongoDB
+
+### 🛠️ Wanting to Learn
+- Expanding my front-end knowledge and skills with TypeScript and a front-end framework like React or Angular
+- Relational databases
+- Cloud technologies
+- Better understanding of Performance, Security, and Accessibility
+- Data Structures and Algorithms (DSA)
+
+### 🚀 Interested In
+- Go
+- Lower-level languages like C, Rust, and Zig
 
 Connect with me:
 <p align="left">
