@@ -1,11 +1,6 @@
 
 ## Hi there 👋 I am Luka!
-A Software Developer using JavaScript and a lifelong learner with a background in customer service and Psychology.
-
-### 🌱 Currently Learning
-- Back-end development with Node.js/Express and MongoDB
-
-
+A Fullstack JavaScript Developer and a lifelong learner with a background in customer service and social sciences.
 
 Connect with me:
 <p align="left">
