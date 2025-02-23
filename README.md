@@ -1,6 +1,6 @@
 
 ## Hi there 👋 I am Luka!
-A Full-stack Developer and a lifelong learner with a background in customer service and social sciences.
+A Full stack Developer and a lifelong learner with a background in customer service and social sciences.
 
 Connect with me:
 <p align="left">
