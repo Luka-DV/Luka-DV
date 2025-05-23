@@ -1,4 +1,4 @@
-#### Hi 👋, my name is Luka.
+### Hi 👋, my name is Luka.
 
 Just a guy looking to build performant projects, understand how things work under the hood, and craft some really awesome software.
 <br>
