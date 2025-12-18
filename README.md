@@ -1,8 +1,8 @@
-### Hi 👋, my name is Luka.
+## Hi 👋, my name is Luka.
 
-#### I am a backend-focused developer building production-style systems with TypeScript, REST APIs, databases and other tools.
+### I am a backend-focused developer building production-style systems with TypeScript, REST APIs, databases and other tools.
 
-#### My aim is to build performant projects, understand how things work under the hood, and craft some really awesome software.
+### My aim is to build performant projects, understand how things work under the hood, and craft some really awesome software.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Luka-DV" alt="Luka-DV" /></a> </p>
 
