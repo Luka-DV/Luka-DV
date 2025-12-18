@@ -1,6 +1,8 @@
 ### Hi 👋, my name is Luka.
 
-Just a guy looking to build performant projects, understand how things work under the hood, and craft some really awesome software.
+I am a backend-focused developer building production-style systems with TypeScript, REST APIs, databases and other tools.
+
+My aim is to build performant projects, understand how things work under the hood, and craft some really awesome software.
 <br>
 <br>
 
