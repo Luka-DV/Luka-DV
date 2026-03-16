@@ -4,7 +4,7 @@
 
 #### My aim is to build performant projects, understand how things work under the hood, and craft some really awesome software.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Luka-DV" alt="Luka-DV" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Luka-DV" alt="Luka-DV" /></a> </p> -->
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
