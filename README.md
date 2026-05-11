@@ -1,6 +1,6 @@
 #### Hi 👋, my name is Luka.
 
-I'm a backend developer specializing in TypeScript and Node.js.
+I'm a backend-focused developer specializing in TypeScript and Node.js.
 
 My aim is to craft performant, high-quality software.
 
